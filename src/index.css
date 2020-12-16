@@ -1,0 +1,24 @@
+.container.main-container {
+  max-width: 80rem;
+  padding-bottom: 7.5rem;
+  padding-top: 7.5rem;
+}
+
+.unavailable{
+  background-color: #ff4136ad;
+  color: #ffffff;
+}
+
+.available{
+  background: #0080008f;
+  color: white;
+}
+
+.button{
+  color:#ffffff !important;
+  border: 3px solid #ffffff;
+}
+
+.no-display {
+  display: none;
+}

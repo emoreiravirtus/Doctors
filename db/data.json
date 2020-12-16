@@ -1,0 +1,67 @@
+{
+  "doctors": [
+    {
+      "id": 202029,
+      "name": "John Doe",
+      "available": false,
+      "city": "San Diego",
+      "zip": 321323
+    },
+    {
+      "id": 402910,
+      "name": "Nick Ramsen",
+      "available": true,
+      "city": "La Llola",
+      "zip": 989988
+    },
+    {
+      "id": 910291,
+      "name": "Liz Redfield",
+      "available": true,
+      "city": "San Diego",
+      "zip": 989988
+    },
+    {
+      "id": 202914,
+      "name": "Javier Garcia",
+      "available": true,
+      "city": "San Diego",
+      "zip": 321323
+    },
+    {
+      "id": 394840,
+      "name": "Harry Bone",
+      "available": false,
+      "city": "La Llola",
+      "zip": 989988
+    },
+    {
+      "id": 982170,
+      "name": "Kevin Lamkin",
+      "available": true,
+      "city": "La Llola",
+      "zip": 989988
+    },
+    {
+      "id": 393920,
+      "name": "Andrew Stuart",
+      "available": false,
+      "city": "La Llola",
+      "zip": 989988
+    },
+    {
+      "id": 655942,
+      "name": "John Doe",
+      "available": false,
+      "city": "San Diego",
+      "zip": 321323
+    },
+    {
+      "name": "John Doe",
+      "id": 982171,
+      "available": false,
+      "city": "La Llola",
+      "zip": 321323
+    }
+  ]
+}
